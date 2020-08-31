@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+ <head>
+<!-- [ Meta Tag SEO ] -->
+<meta charset='utf-8'/>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
+<meta content='blogger' name='generator'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'/>
+
+<script src='https://dl.dropboxusercontent.com/s/d4sxociui5og8xf/11.js' type='text/javascript'/>
+<script src='https://dl.dropboxusercontent.com/s/wrlhbhl2ma30lw7/21.js' type='text/javascript'/>
+<script src='https://dl.dropboxusercontent.com/s/mgoj5vpxixzbt1w/31.js' type='text/javascript'/>
+<script src='https://dl.dropboxusercontent.com/s/yfjp1kueuspuf15/41.js' type='text/javascript'/>
+
+<link href='http://www.blogger.com/openid-server.g' rel='openid.server'/>
+<link expr:href='data:blog.homepageUrl' rel='openid.delegate'/>
+<link expr:href='data:blog.url' rel='canonical'/>
+<b:if cond='data:blog.pageType == &quot;index&quot;'>
+<title><data:blog.pageTitle/></title>
+<b:else/>
+<b:if cond='data:blog.pageType != &quot;error_page&quot;'>
+<title><data:blog.pageName/> </title>
+</b:if></b:if>
+<b:if cond='data:blog.pageType == &quot;error_page&quot;'>
+<title>Page Not Found - <data:blog.title/></title>
+</b:if>
+<b:if cond='data:blog.pageType == &quot;archive&quot;'>
+<meta content='noindex' name='robots'/>
+</b:if>
+<b:if cond='data:blog.searchLabel'>
+<meta content='noindex,nofollow' name='robots'/>
+</b:if>
+<b:if cond='data:blog.isMobile'>
+<meta content='noindex,nofollow' name='robots'/>
+</b:if>
+<b:if cond='data:blog.pageType != &quot;error_page&quot;'>
+<meta expr:content='data:blog.metaDescription' name='description'/>
+<b:if cond='data:blog.homepageUrl != data:blog.url'>
+<meta expr:content='data:blog.pageName + &quot;, &quot; + data:blog.pageTitle + &quot;, &quot; + data:blog.title' name='keywords'/>
+</b:if></b:if>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<meta content='YOUR, KEYWORDS, HERE' name='keywords'/></b:if>
+<link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
+<link expr:href='data:blog.homepageUrl + &quot;feeds/posts/default?alt=rss&quot;' expr:title='data:blog.title + &quot; - RSS&quot;' rel='alternate' type='application/rss+xml'/>
+<link expr:href='&quot;http://www.blogger.com/feeds/&quot; + data:blog.blogId + &quot;/posts/default&quot;' expr:title='data:blog.title + &quot; - Atom&quot;' rel='alternate' type='application/atom+xml'/>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<b:if cond='data:blog.postImageThumbnailUrl'>
+<link expr:href='data:blog.postImageThumbnailUrl' rel='image_src'/>
+</b:if></b:if>
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+<b:if cond='data:blog.url'>
+<meta expr:content='data:blog.url' property='og:url'/>
+</b:if>
+<meta expr:content='data:blog.title' property='og:site_name'/>
+<b:if cond='data:blog.pageName'>
+<meta expr:content='data:blog.pageName' property='og:title'/>
+</b:if>
+<meta content='website' property='og:type'/></b:if></b:if></b:if>
+<b:if cond='data:blog.postImageThumbnailUrl'>
+<meta expr:content='data:blog.postImageThumbnailUrl' property='og:image'/>
+<b:else/></b:if>
+<link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+<meta expr:content='data:blog.title' property='og:site_name'/>
+<meta content='562901580420523' property='fb:app_id'/>
+<meta content='100005787193074' property='fb:admins'/>
+<meta content='en_US' property='og:locale'/>
+<meta content='en_GB' property='og:locale:alternate'/>
+<meta content='id_ID' property='og:locale:alternate'/>
+<meta content='summary' name='twitter:card'/>
+<meta expr:content='data:blog.pageTitle' name='twitter:title'/>
+<meta content='Sức khỏe là vàng là trang báo sức khỏe gia đình tư vấn sức khỏe online về sức khỏe đời sống vợ chồng - tình dục ' name='twitter:site'/>
+<meta content='BLOG SỨC KHỎE VÀNG' name='twitter:creator'/>
+
+   &lt;style&gt;&lt;!--/*<b:skin><![CDATA[*/
+.pbtthumbimg {float:left;margin:0px 10px 5px 0px;padding:6px;border:1px solid #eee;background:#ffffff;width:200px;height:150px;}
+
+]]></b:skin>
+
+
+<style id='page-skin-1' type='text/css'><!--
+a.button {background-color: #F9B601;border: 1px solid #FFFFFF;color: #FFF;padding-top: 8px;display: inline-block;outline: medium none;cursor: pointer;text-align: center;text-decoration: none;font: bold 12px Arial,sans-serif;padding: 0.65em 2em;text-shadow: 0px 0px 1px rgba(0, 0, 0, 0.7);background: #073E65;margin-right: 5px;}a.button:hover{background:#E86A64;}#Breadcrumbs{color:#000;font-size:12px;margin-bottom:15px;padding:0;background:#FFF;border:2p x solid #BBB;font-weight:bold;text-decoration:none}#Breadcrumbs a{color:#000,font-size:12px}#Breadcrumbs div{float:left}.related-post h4{margin-left:0;text-transform:uppercase;font-size:15px}.related-post ul li{list-style:circle}.related-post ul li a{font-size:14px}.post-footer-line-2{margin-bottom:30px}*{margin:0;padding:0}body{line-height:1.5;font-size:13px;font-family:Arial,Helvetica,sans-serif;background:#EFEFEF}body,td,th,input,textarea,select,a{outline:0 none}h1,h2,h3,h4,h5,h6{font-size:100%;padding:5px 0;margin:0 15px;font-size:14px}ul,ol{list-style:none}img{border:0}a,a:hover,a:focus{-webkit-transition:color 0.4s ease 0s;transition:color 0.4s ease 0s;text-decoration:none}a{color:#0E314C;text-decoration:none}img,video,object,embed{max-width:100%;height:auto}a:hover{}.floatLeft{float:left}.floatRight{float:right}.clear{clear:both}#wrapper{width:100%;background:#FFF}/*HEADER*/#header{width:100%}.top-header{width:100%;background:#073E65}.wrap-theader{width:960px;margin:0 auto;height:50px}.title-website{color:#FFF;font-size:14px;padding:15px 0}.bottom-header{height:120px;background:#FFF}.wrap-bheader{width:960px;margin:0 auto;padding-top:20px}#logo{float:left;margin-right:2%;width:20% !important}#logo img{width:100%}.primary-menu{height:50px;padding-top:7px;float:right;width:77%;}.primary-menu ul{margin:0 auto}.primary-menu a{color:#DEA226;display:block;padding:15px 10px;font:14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:600}.primary-menu>ul>li a:hover{color:red}.primary-menu>ul>li ul li a:hover{}.primary-menu>ul>li{float:left;position:relative}.primary-menu>ul>li:last-child{background:none}.primary-menu>ul>li>ul{display:none;position:absolute;background:#7AC142;top:45px;width:250px;left:10px;z-index:9999;visibility:visible !important}.primary-menu>ul>li:hover ul{display:block !important}.primary-menu ul li:hover{transition:all 0.25s}.primary-menu ul li:hover a{color:red}.primary-menu>ul>li>ul>li{padding:7px 10px}.primary-menu>ul>li>ul>li{}.primary-menu>ul>li>ul>li:last-child{border-bottom:none}.primary-menu>ul>li>ul>li a{color:#FFF !important;text-transform:none;padding:5px 0;font-weight:normal;display:block;font-size:15px}.primary-menu>ul>li>ul>li:hover{background:#FFB808;color:#FFF;padding-left:2%}/*CONTAINER*/#container{width:960px;margin:25px auto 0 auto;padding-bottom:20px;overflow:hidden}.slider-web{width:100%}.slider-web img{}#main{width:70%;float:left;margin:0}#contents{width:100%}#sidebar{width:28%;float:right}.tagline{width:100%;border-bottom:5px solid #F5F5F5;margin-top:75px;margin-bottom:7px;text-align:center;padding-bottom:30px}.title-tagline{font-size:30px;font-weight:700;line-height:30px;margin-top:-10px}.tagline_desc{width:60%;margin:10px auto auto}.line-section{border-top:2px solid #F9F9F9}.show-dproject{overflow:hidden;margin-left:-15px;margin-right:-15px}.box-dpro{width:21.97127437%;float:left;padding:15px;height:350px;padding-bottom:20px}.box-dpro a img{width:100%;height:140px;transition:All 0.5s linear;transform:scale(1)}.box-dpro a img:hover{transform:scale(1.1)}.box-dpro .dpro-name{font-size:20px;text-transform:uppercase;padding:14px 10px;margin:0 0 14px;border-bottom:1px solid #E5E5E5;text-align:center}.box-dpro .dpro-name a{color:#DEA226}.box-dpro .dpro-desc{text-align:justify;font-size:12px;font-family:'Helvetica','Helvetica','Lucida Grande',Verdana,sans-serif;color:#333}.line-border{background:none repeat scroll 0% 0% #F5F5F5;width:100%;height:5px;margin-bottom:5px}.show-uti{margin-right:-15px;margin-left:-15px;overflow:hidden}.box-uti{width:21.97127437%;float:left;padding:15px}.box-uti img{float:left;text-align:left;margin-right:1%}.box-uti h4{font-size:17px}.box-uti h4 a{color:#F00}.box-uti h4 a:hover{color:#3F3333}/*FOOTER*/#footer{width:100%}.top-footer{background:#073E65}.wrap-tfooter{width:960px;margin:0 auto}.show-wfooter{margin-left:-20px;margin-right:-20px;overflow:hidden}.widget-footer{color:#FFF;width:29.33437442%;float:left;padding:20px}.widget-footer a{color:#FFF}.title-wfooter,.PopularPosts h2,.widget-footer .widget h2{font-size:20px;font-weight:bold;text-transform:none;display:block;line-height:43px;margin:0 0 20px;letter-spacing:0;border-bottom:3px solid #E5E5E5}.details-wfooter{color:#E5E5E5}.details-wfooter ul,.PopularPosts ul{margin-left:4%}.PopularPosts ul{margin-left:0%}.details-wfooter ul li,.PopularPosts ul li{list-style:disc;margin-bottom:5px}.PopularPosts ul li{padding:0 !important}.details-wfooter ul li a. .PopularPosts ul li a{display:block;color:#E5E5E5}.bottom-footer{background:#0E314C;padding:10px 0}.wrap-bfooter{width:960px;margin:0 auto}.wrap-bfooter p{text-align:center;color:#FFF}.wrap-bfooter p a{color:#FFF}/*SINGLE*/.show-data{}.title-sdata,.title-cat{font-size:22px;color:#F00;font-weight:bold;border-bottom:1px solid #8AB2BA;padding-bottom:10px;padding-top:10px;margin-left:0;margin-bottom:10px;width:100%}.details-data,.entry-content{margin-bottom:30px}.details-data table,.entry-content table{width:100% !important}.share-data{width:100%;margin-bottom:20px}/*CAT*/.related-postbwrap,.data-cat{}.title-datarela{font-size:20px;color:#073E65;font-weight:bold;border-bottom:1px solid #8AB2BA;padding-bottom:10px;padding-top:10px;margin-left:0;margin-bottom:10px;width:100%}.wrap-datarela,.wrap-datacat{}.box-datacat{overflow:hidden;padding-bottom:30px;margin-bottom:10px;border-bottom:1px dotted #EEE}.related-postbwrap ul{padding:0}.related-postbwrap ul li{magin-bottom:20px;padding-bottom:10px;overflow:hidden}.box-datacat ul li img,.related-postbwrap ul li img{float:left;width:23%;height:110px;margin-right:2%}.box-datacat .datacat-name{}.pagenavi{clear:both;margin:10px auto;text-align:center}.pagenavi span,.pagenavi a{font-size:12px;padding:2px 4px;margin:2px;border:1px solid #dfdfdf;color:#000}.pagenavi a:visited{}.pagenavi a:hover,.pagenavi .current{color:#FFF;background-color:#0272B8;border:1px solid #ccc;text-decoration:none}.box-datacat .datacat-name a,.related-post-item-title{color:#076CB0!important;display:block;font-size:18px;color:#183243;font-weight:normal}.box-datacat .datacat-desc,.related-post-item-summary-text{color:#777;font-size:13px;font-family:'Helvetica','Helvetica','Lucida Grande',Verdana,sans-serif;text-align:justify;width:98%}/*SIDEBAR*/.widget{margin-bottom:15px}.title-widget{margin-left:0;background:#073E65;padding:10px 0;text-align:center;font-size:15px;color:#FFF;text-transform:uppercase;width:100%}.details-widget iframe,.details-widget img{width:100%}.details-widget{}.details-widget ul{}.details-widget ul li{background:url(https://lh3.googleusercontent.com/-YLSK8i7_rMg/Vh9d_unBPPI/AAAAAAAAANg/WOquEWgjcpQ/h120/icon-butlet.png) no-repeat left 23px;padding:14px 0 12px 15px;border-bottom:1px dotted #0E314C}.details-widget ul li:last-child{border-bottom:none}.details-widget ul li a{font-size:14px;display:block}.pbtthumbimg{float:left;border:1px solid #F2D89D;background:#FBEFE3;width:20%;height:100px;margin:0 10px 5px 0;padding:2px!important}@media only screen and (max-width:1200px){}@media only screen and (max-width:960px){.wrap-theader,.wrap-bheader,#container,.wrap-tfooter,.wrap-bfooter{width:100%}#contents,#sidebar{width:98%;margin:0 auto;float:none}#main{width:98%;float:none;margin:0 auto}.wrap-slider{width:100% !important}.amazingslider-bottom-shadow-1 img{display:none !important}.title-tagline{font-size:24px}.show-dproject,.show-uti,.show-wfooter{margin-left:0;margin-right:0}.box-dpro{width:46%}.box-dpro a img{height:170px}.box-uti{width:46%}.widget-footer{width:95%}}@media only screen and (max-width:760px){.slider-web{display:none}#logo{margin:0 auto;float:none;text-align:center;display:block}.box-dpro{width:94%}.box-dpro a img{height:225px}.bottom-header{height:80px}.box-dpro{height:395px}.box-uti{width:90%}.box-datacat a img{width:100%;height:180px}.box-datacat ul li img,.related-postbwrap ul li img{width:100%;height:185px}.pbtthumbimg{width:98.7%;height:185px}.status-msg-wrap{font-size:110%;width:99% !important}}@media only screen and (max-width:450px){.box-dpro a img{height: 195px;width:96%;}}
+
+--></style>
+
+<script type='text/javascript'>
+//<![CDATA[
+
+function showrecentcomments(json){for(var i=0;i<a_rc;i++){var b_rc=json.feed.entry[i];var c_rc;if(i==json.feed.entry.length)break;for(var k=0;k<b_rc.link.length;k++){if(b_rc.link[k].rel=='alternate'){c_rc=b_rc.link[k].href;break;}}c_rc=c_rc.replace("#","#comment-");var d_rc=c_rc.split("#");d_rc=d_rc[0];var e_rc=d_rc.split("/");e_rc=e_rc[5];e_rc=e_rc.split(".html");e_rc=e_rc[0];var f_rc=e_rc.replace(/-/g," ");f_rc=f_rc.link(d_rc);var g_rc=b_rc.published.$t;var h_rc=g_rc.substring(0,4);var i_rc=g_rc.substring(5,7);var j_rc=g_rc.substring(8,10);var k_rc=new Array();k_rc[1]="Jan";k_rc[2]="Feb";k_rc[3]="Mar";k_rc[4]="Apr";k_rc[5]="May";k_rc[6]="Jun";k_rc[7]="Jul";k_rc[8]="Aug";k_rc[9]="Sep";k_rc[10]="Oct";k_rc[11]="Nov";k_rc[12]="Dec";if("content" in b_rc){var l_rc=b_rc.content.$t;}else if("summary" in b_rc){var l_rc=b_rc.summary.$t;}else var l_rc="";var re=/<\S[^>]*>/g;l_rc=l_rc.replace(re,"");if(m_rc==true)document.write('On '+k_rc[parseInt(i_rc,10)]+' '+j_rc+' ');document.write('<a href="'+c_rc+'">'+b_rc.author[0].name.$t+'</a> commented');if(n_rc==true)document.write(' on '+f_rc);document.write(': ');if(l_rc.length<o_rc){document.write('<i>&#8220;');document.write(l_rc);document.write('&#8221;</i><br/><br/>');}else{document.write('<i>&#8220;');l_rc=l_rc.substring(0,o_rc);var p_rc=l_rc.lastIndexOf(" ");l_rc=l_rc.substring(0,p_rc);document.write(l_rc+'&hellip;&#8221;</i>');document.write('<br/><br/>');}}}
+
+function rp(json){document.write('<ul>');for(var i=0;i<numposts;i++){document.write('<li>');var entry=json.feed.entry[i];var posttitle=entry.title.$t;var posturl;if(i==json.feed.entry.length)break;for(var k=0;k<entry.link.length;k++){if(entry.link[k].rel=='alternate'){posturl=entry.link[k].href;break}}posttitle=posttitle.link(posturl);var readmorelink="(more)";readmorelink=readmorelink.link(posturl);var postdate=entry.published.$t;var cdyear=postdate.substring(0,4);var cdmonth=postdate.substring(5,7);var cdday=postdate.substring(8,10);var monthnames=new Array();monthnames[1]="Jan";monthnames[2]="Feb";monthnames[3]="Mar";monthnames[4]="Apr";monthnames[5]="May";monthnames[6]="Jun";monthnames[7]="Jul";monthnames[8]="Aug";monthnames[9]="Sep";monthnames[10]="Oct";monthnames[11]="Nov";monthnames[12]="Dec";if("content"in entry){var postcontent=entry.content.$t}else if("summary"in entry){var postcontent=entry.summary.$t}else var postcontent="";var re=/<\S[^>]*>/g;postcontent=postcontent.replace(re,"");document.write(posttitle);if(showpostdate==true)document.write(' - '+monthnames[parseInt(cdmonth,10)]+' '+cdday);if(showpostsummary==true){if(postcontent.length<numchars){document.write(postcontent)}else{postcontent=postcontent.substring(0,numchars);var quoteEnd=postcontent.lastIndexOf(" ");postcontent=postcontent.substring(0,quoteEnd);document.write(postcontent+'...'+readmorelink)}}document.write('</li>')}document.write('</ul>')}
+
+//]]>
+</script>
+<script type='text/javascript'>
+posts_no_thumb_sum = 490;
+posts_thumb_sum = 400;
+img_thumb_height = 160;
+img_thumb_width = 180;
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+function removeHtmlTag(strx,chop){
+if(strx.indexOf("<")!=-1)
+{
+var s = strx.split("<");
+for(var i=0;i<s.length;i++){
+if(s[i].indexOf(">")!=-1){
+s[i] = s[i].substring(s[i].indexOf(">")+1,s[i].length);
+}
+}
+strx = s.join("");
+}
+chop = (chop < strx.length-1) ? chop : strx.length-2;
+while(strx.charAt(chop-1)!=' ' && strx.indexOf(' ',chop)!=-1) chop++;
+strx = strx.substring(0,chop-1);
+return strx+'...';
+}
+function createSummaryAndThumb(pID, pURL, pTITLE){
+var div = document.getElementById(pID);
+var imgtag = "";
+var img = div.getElementsByTagName("img");
+var summ = posts_no_thumb_sum;
+if(img.length>=1) {
+imgtag = '<span class="posts-thumb" style="float:left; margin-right: 10px;"><a href="'+ pURL +'" title="'+ pTITLE+'"><img src="'+img[0].src+'" width="'+img_thumb_width+'px" height="'+img_thumb_height+'px" /></a></span>';
+summ = posts_thumb_sum;
+}
+
+var summary = imgtag + '<div>' + removeHtmlTag(div.innerHTML,summ) + '</div>';
+div.innerHTML = summary;
+}
+//]]>
+</script>
+<style type='text/css'>
+.post-footer {display: none;}
+.post {margin-bottom: 10px; border-bottom: 1px dotted #E6E6E6; padding-bottom: 20px;}
+ .readmore a {text-decoration: none; }
+</style>
+<script type='text/javascript'><![CDATA[[<!--/*<body>*/-->]]></script>
+<script type='text/javascript'>
+//<![CDATA[
+//CSS Ready
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+//]]>
+</script>
+ </head>
+ <body>
+
+<div id='wrapper'>
+
+<header id='header'>
+<div class='top-header'>
+<div class='wrap-theader'>
+<div class='title-website'>Chung cư GoldSeason 47 Nguyễn Tuân</div>
+</div>
+</div>
+<div class='bottom-header'>
+<div class='wrap-bheader'>
+<div class='head section' id='head' name='Header'><div class='widget Header' data-version='1' id='Header1'>
+<a href='/' id='logo'>
+<img alt='Chung cư GoldSeason 47 Nguyễn Tuân - TNR Holdings Việt Nam' data-pin-nopin='true' height='133px; ' id='Header1_headerimg' src='http://lh4.googleusercontent.com/-wStw8o52ml4/VuZtADEmH_I/AAAAAAAAC9Y/RD-E12x_uuY4LNaY7mXaTsO6B6HGirT_w/s1600-r/lo-go-goldseason1.png' width='485px; '/>
+</a>
+</div>
+</div>
+<nav class='primary-menu'>
+<ul>
+<li><a href='/'>Trang chủ</a></li>
+<li><a href='/2015/11/chu-dau-tu-chung-cu-gold-season.html'> Chủ Đầu Tư</a></li>
+<li><a href='/2015/11/vi-tri-chung-cu-goldseason.html'>Vị trí</a></li>
+<li><a href='/2015/11/tien-ich-chung-cu-goldseason-nguyen-tuan.html'>Tiện ích</a></li>
+<li><a href='/2015/11/mat-bang-dien-hinh-chung-cu-goldseason.html'>Mặt bằng</a></li>
+<li><a href='/2015/11/gia-ban-va-chinh-sach-goldseason.html'>Giá bán</a></li>
+<li><a href='/search/label/Tiến%20độ'>Tiến độ</a></li>
+<li><a href='/p/lien-he.html'>Liên hệ</a></li>
+<li><a href='/search/label/Tin%20tức'>Tin tức</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
+
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+
+<div id='container'>
+<div class='slider-web'>
+<div class='wrap-slider' style='max-width:960px;margin:0 auto;padding-left:0px;padding-right:0px;'>
+<div class='wonderpluginslider' data-arrowheight='32' data-arrowimage='arrows-32-32-0.png' data-arrowmargin='8' data-arrowstyle='mouseover' data-arrowtop='50' data-arrowwidth='32' data-autoplay='true' data-autoplayvideo='false' data-border='0' data-descriptioncss='display:block; position:relative; font:12px &quot;Lucida Sans Unicode&quot;,&quot;Lucida Grande&quot;,sans-serif,Arial; color:#fff; margin-top:8px;' data-fullwidth='false' data-height='385' data-isresponsive='true' data-jsfolder='http://thietkewebgiare247.com/wp-content/uploads/2015/10/' data-lightboxbarheight='64' data-lightboxdescriptionbottomcss='{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}' data-lightboxresponsive='true' data-lightboxshowdescription='false' data-lightboxshownavigation='false' data-lightboxshowtitle='true' data-lightboxthumbbottommargin='4' data-lightboxthumbheight='60' data-lightboxthumbtopmargin='12' data-lightboxthumbwidth='90' data-lightboxtitlebottomcss='{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}' data-loop='0' data-navheight='24' data-navimage='bullet-24-24-0.png' data-navmarginx='16' data-navmarginy='16' data-navshowpreview='true' data-navspacing='8' data-navwidth='24' data-paddingleft='0' data-paddingright='0' data-playvideoimage='playvideo-64-64-0.png' data-playvideoimageheight='64' data-playvideoimagewidth='64' data-randomplay='false' data-scalemode='fill' data-showbottomshadow='true' data-showtext='true' data-showtimer='true' data-skin='classic' data-slideinterval='8000' data-sliderid='1' data-textbgcss='display:block; position:absolute; top:0px; left:0px; width:100%; height:100%; background-color:#333333; opacity:0.6; filter:alpha(opacity=60);' data-textcss='display:block; padding:12px; text-align:left;' data-textformat='Bottom bar' data-textpositiondynamic='bottomleft' data-textpositionstatic='bottom' data-titlecss='display:block; position:relative; font:bold 14px &quot;Lucida Sans Unicode&quot;,&quot;Lucida Grande&quot;,sans-serif,Arial; color:#fff;' data-transition='crossfade,elastic,slice,threed,threedhorizontal' data-width='960' id='wonderpluginslider-1' style='display:none;'>
+
+<ul class='amazingslider-slides' style='display:none;'>
+
+<li><img alt='' data-description='Mở bán chung cư GoldSeason' src='https://lh4.googleusercontent.com/-3rHBU-nSL6Y/VuQ58rseriI/AAAAAAAAC3I/SyQ64XPTijUPzImE2B_TAl4lXhpT7X5VA/s1600/chung-cu-goldseason1.png'/></li>
+
+<li><img alt='' data-description='Phối cảnh chung cư GoldSeason' src='https://lh4.googleusercontent.com/-HRGNmeD1xfU/VuKLBKJA8iI/AAAAAAAACzo/P1Km-eGOffcZpZ_rprdhLt-t5A5PoK1Cg/s1600/slider-goldseason-2.png'/></li>
+
+<li><img alt='' data-description='Chương trình mở bán chung cư GoldSeason' src='https://lh4.googleusercontent.com/-890dWEghIro/VuJ8UtedQrI/AAAAAAAACyw/6seQ_IK42WEd-bYhqQXyM8dLF1iPG6B3w/s1600/slider-goldseason-1.png'/></li>
+
+<li><img alt='' data-description='Bể bơi trên mây chung cư GoldSeason' src='https://lh4.googleusercontent.com/-EnRM0ov0dqc/VuKNbnTPsWI/AAAAAAAACz0/1GltAoayfS4s-lX2R0meds4sk2pngeJfw/s1600/slider-goldseason-3.png'/></li>
+
+<li><img alt='' data-description='Phối cảnh trung tâm thương mại GoldSeason' src='https://lh4.googleusercontent.com/-uQk3P9tH3GI/VuKNbg0jHPI/AAAAAAAACz8/t2m1RRqZkKU-ZJq8x6CNXpLrY9XgZ6TzQ/s1600/slider-goldseason-4.png'/></li>
+
+<li><img alt='' data-description='Sắp ra mắt tòa Summer 2 GoldSeason' src='https://lh4.googleusercontent.com/-dizXlX2H52c/VuQ58h6ahKI/AAAAAAAAC3M/kVNQsqdQaYguVqWLkEikBcelczYQTffpg/s1600/chung-cu-goldseason2.png'/></li>
+
+
+</ul>
+<div class='wonderplugin-engine'/>
+</div>
+</div>
+</div>
+
+
+<div class='tagline'>
+<h2 class='title-tagline'>TNR Holdings Việt Nam Trân Trọng Giới Thiệu - Chung cư GoldSeason - New Manhattan Trong Lòng Hà Nội</h2>
+<div class='tagline_desc'> Ngay Bây Giờ Quý Khách Hàng Quan Tâm Có Thể Đăng Ký Đặt Mua Chọn Căn Tầng Phù Hợp. Cuối Tháng 3 Chủ Đầu Tư Chính Thức Mở Bán Đợt 1. Quý Khách Quan Tâm Xin Vui Lòng Liên Hệ Phòng Kinh Doanh Chủ Đầu Tư. Hotline 0904 672 993 - 0971 010 222<br/><br/>
+<a class='button' href='#'>ĐĂNG KÝ MỞ BÁN</a>
+<a class='button' href='#'>XEM VIDEO</a>
+</div>
+</div>
+<div class='line-section'/>
+<section class='show-dproject'>
+<article class='box-dpro'>
+<a href='#'><img src='https://lh4.googleusercontent.com/-IuG72uZnUhg/VuKJOBFpfBI/AAAAAAAACzc/LsJ3Cf5cM_IWl66Qhm1HJpdVDe4VVnQaw/s640/Facade%2Bokay.jpg'/></a>
+<h3 class='dpro-name'><a href='#'>Tổng quan dự án</a></h3>
+<div class='dpro-desc'>
+<strong><a href='http://goldseasononline.blogspot.com/' style='color: #000000;'>Chung cư GoldSeason</a></strong> Nằm trong quần thể cảnh quan hồ nước, công viên cây xanh và phần phân bổ mật độ dân cư thấp nhất trong khu vực, Với thiết kế lấy cảm hứng từ Manhattan - trái tim của thành phố New York, <strong>GoldSeason</strong> là kết tinh giữa nét phóng khoáng, tiện nghi của văn hóa Mỹ... </div>
+</article>
+<article class='box-dpro'>
+<a href='#'><img src='http://lh4.googleusercontent.com/-zTCZOG3XS7s/VmPunm2VHcI/AAAAAAAACSo/XBSDiuXycSU/s640/Chung-cu-Ecolife-Tay-Ho-tien-ich.jpg'/></a>
+<h3 class='dpro-name'><a href='/2015/11/tien-ich-chung-cu-goldseason-nguyen-tuan.html'>Tiện ích dự án</a></h3>
+<div class='dpro-desc'> Mang một thương hiệu đẳng cấp, hướng tới một không gian sống lành mạnh. <strong>dự án GoldSeason 47 Nguyễn Tuân</strong> nằm trong quần thể cảnh quan hồ nước, công viên cây xanh. Có đầy đủ dịch vụ tiện ích như bể bơi, trung tâm thương mại, Nhà trẻ và các tiện ích khác... </div>
+</article>
+<article class='box-dpro'>
+<a href='#'><img src='http://lh4.googleusercontent.com/-qA7ToLYrjBw/VmaDPeHnN9I/AAAAAAAAByQ/XDZ5idsjQxI/s640/mat-bang-dien-hinh-goldseason.png'/></a>
+<h3 class='dpro-name'><a href='/2015/11/mat-bang-dien-hinh-chung-cu-goldseason.html'>Mặt bằng căn hộ</a></h3>
+<div class='dpro-desc'> Căn hộ Gold Season được thiết kế đa dạng các diện tích từ 63m2 - 108m2. Từ các căn hộ 2 PN cho đến căn hộ 3PN với nội thất cao cấp đầy đủ. Điểm đặc biệt tại dự án GoldSeason, các căn hộ được ốp kính rất thoáng và mát...</div>
+</article>
+<article class='box-dpro'>
+<a href='/2015/11/gia-ban-va-chinh-sach-goldseason.html'><img src='http://lh4.googleusercontent.com/-0PPs3G6Wm3Y/VkyniRn3w2I/AAAAAAAABkg/bFz8MQlVzTg/s640/maritimebank-ohft-1434383718648.jpg'/></a>
+<h3 class='dpro-name'><a href='#'>Giá bán</a></h3>
+<div class='dpro-desc'> Chủ đầu tư TNR Holdings Việt Nam mở bán chung cư <strong>GoldSeason</strong> với giá cực kì ưu đãi. Chỉ từ 28,7 triệu/m2 bao gồm VAT và nội thất hoàn thiện cao cấp. Đăng ký đặt mua ngay dự án GoldSeason 47 Nguyễn Tuân để được chọn căn tầng đẹp giá hợp lý... </div>
+</article>
+</section>
+<div class='line-border'/>
+<div class='line-section'/>
+<section class='show-uti'>
+<article class='box-uti'>
+<a href='http://goldseasononline.blogspot.com/'><img alt='Chung cư Vinhomes Metropolis' border='0' src='https://lh3.googleusercontent.com/-QCGi5MuyiNk/Vh9d-nnvWII/AAAAAAAAANE/zKG51eDD9JE/h120/1.png' title='Chung cư Vinhomes Metropolis'/></a>
+<h4><a href='/2015/11/chu-dau-tu-chung-cu-gold-season.html'>Chủ đầu tư</a></h4>
+</article>
+<article class='box-uti'>
+<a href='http://goldseasononline.blogspot.com/'><img alt='Vinhomes Metropolis' border='0' src='https://lh3.googleusercontent.com/-_81BUGJ57vA/Vh9d-jAVzGI/AAAAAAAAANA/qsLTMVwpejc/h120/2.png' title='Vinhomes Metropolis'/></a>
+<h4><a href='/2016/03/stda-don-vi-phan-phoi-doc-quyen-goldseason.html'>Đơn vị phân phối</a></h4>
+</article>
+<article class='box-uti'>
+<a href='http://goldseasononline.blogspot.com/'><img alt='Green Pearl 378 Minh Khai' border='0' src='https://lh3.googleusercontent.com/-dozeSSq0NyE/Vh9d-oZulPI/AAAAAAAAANI/lzFSnMRVbqU/h120/3.png' title='Green Pearl 378 Minh Khai'/></a>
+<h4><a href='/search/label/Tiến%20độ'>Tiến độ xây dựng</a></h4>
+</article>
+<article class='box-uti'>
+<img src='https://lh3.googleusercontent.com/-wBde4SvIRUQ/Vh9d_L_7CYI/AAAAAAAAANM/GsPKSy1tUM8/h120/4.png'/>
+<h4><a href='/p/lien-he.html'>Tư vấn và Đặt mua</a></h4>
+</article>
+</section>
+  </div>
+</b:if>
+
+
+<b:if cond='data:blog.url != data:blog.homepageUrl'>
+<div id='container'>
+   <div id='outer-wrapper'>
+     <b:section class='header' id='header'/>
+     <b:section class='main' id='main' showaddelement='no'>
+       <b:widget id='Blog1' locked='true' title='Bài đăng trên Blog' type='Blog' version='1'>
+         <b:includable id='main' var='top'>
+<script type='text/javascript'>
+summary_noimg = 550;
+summary_img = 450;
+img_thumb_height = 150;
+img_thumb_width = 200; 
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+
+function removeHtmlTag(strx,chop){ 
+	if(strx.indexOf("<")!=-1)
+	{
+		var s = strx.split("<"); 
+		for(var i=0;i<s.length;i++){ 
+			if(s[i].indexOf(">")!=-1){ 
+				s[i] = s[i].substring(s[i].indexOf(">")+1,s[i].length); 
+			} 
+		} 
+		strx =  s.join(""); 
+	}
+	chop = (chop < strx.length-1) ? chop : strx.length-2; 
+	while(strx.charAt(chop-1)!=' ' && strx.indexOf(' ',chop)!=-1) chop++; 
+	strx = strx.substring(0,chop-1); 
+	return strx+'...'; 
+}
+
+function createSummaryAndThumb(pID){
+	var div = document.getElementById(pID);
+	var imgtag = "";
+	var img = div.getElementsByTagName("img");
+	var summ = summary_noimg;
+	if(img.length>=1) {	
+		imgtag = '<img src="'+img[0].src+'" class="pbtthumbimg"/>';
+		summ = summary_img;
+	}
+	
+	var summary = imgtag + '<div>' + removeHtmlTag(div.innerHTML,summ) + '</div>';
+	div.innerHTML = summary;
+}
+
+//]]>
+</script>
+
+  <b:if cond='data:mobile == &quot;false&quot;'>
+
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+<b:if cond='data:blog.pageType != &quot;error_page&quot;'>
+    <b:include data='top' name='status-message'/>
+<b:else/>
+    <!-- error page message -->
+    <div id='errorpage'>
+      <h1>404 Not Found</h1>
+      <p>We&#39;re sorry but we could not find the page you are looking for.</p>
+      <p>This may happen if you have entered site url incorrectly or this page doesn&#39;t exist anymore.</p>
+      <p>You can try searching page again or go back to home.</p>
+      <div id='searcherrorpage'>
+         <form expr:action='data:blog.homepageUrl + &quot;search/&quot;' id='search-errorpage' method='get'>
+            <input id='s' name='q' onblur='if (this.value == &quot;&quot;) {this.value = &quot;Search...&quot;;}' onfocus='if (this.value == &quot;Search...&quot;) {this.value = &quot;&quot;;}' size='40' type='text' value='Search...'/>
+			<input id='searchsubmit' type='submit' value='Go'/>
+         </form>
+      </div>
+    </div>
+</b:if>
+
+      <data:defaultAdStart/>
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.isDateStart'>
+          <b:if cond='data:post.isFirstPost == &quot;false&quot;'>
+            &lt;/div&gt;&lt;/div&gt;
+          </b:if>
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-outer&quot;&gt;
+        </b:if>
+        <b:if cond='data:post.dateHeader'>
+          <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-posts&quot;&gt;
+        </b:if>
+        <div class='post-outer'>
+        <b:include data='post' name='post'/>
+        <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+          <b:if cond='data:post.showThreadedComments'>
+            <b:include data='post' name='threaded_comments'/>
+          <b:else/>
+            <b:include data='post' name='comments'/>
+          </b:if>
+        </b:if>
+        <b:if cond='data:blog.pageType == &quot;item&quot;'>
+          <b:if cond='data:post.showThreadedComments'>
+            <b:include data='post' name='threaded_comments'/>
+          <b:else/>
+            <b:include data='post' name='comments'/>
+          </b:if>
+        </b:if>
+        </div>
+        <b:if cond='data:post.includeAd'>
+          <b:if cond='data:post.isFirstPost'>
+            <data:defaultAdEnd/>
+          <b:else/>
+            <data:adEnd/>
+          </b:if>
+          <div class='inline-ad'>
+            <data:adCode/>
+          </div>
+          <data:adStart/>
+        </b:if>
+      </b:loop>
+      <b:if cond='data:numPosts != 0'>
+        &lt;/div&gt;&lt;/div&gt;
+      </b:if>
+      <data:adEnd/>
+    </div>
+
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+<!-- navigation -->
+<b:include name='nextprev'/>
+</b:if>
+
+    <!-- feed links -->
+    
+
+    <b:if cond='data:top.showStars'>
+      <script src='//www.google.com/jsapi' type='text/javascript'/>
+      <script type='text/javascript'>
+        google.load(&quot;annotations&quot;, &quot;1&quot;, {&quot;locale&quot;: &quot;<data:top.languageCode/>&quot;});
+        function initialize() {
+          google.annotations.setApplicationId(<data:top.blogspotReviews/>);
+          google.annotations.createAll();
+          google.annotations.fetch();
+        }
+        google.setOnLoadCallback(initialize);
+      </script>
+    </b:if>
+
+  <b:else/>
+    <b:include name='mobile-main'/>
+  </b:if>
+
+  <b:if cond='data:top.showDummy'>
+    <data:top.dummyBootstrap/>
+  </b:if>
+
+</b:includable>
+         <b:includable id='backlinkDeleteIcon' var='backlink'>
+  <span expr:class='&quot;item-control &quot; + data:backlink.adminClass'>
+    <a expr:href='data:backlink.deleteUrl' expr:title='data:top.deleteBacklinkMsg'>
+      <img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+    </a>
+  </span>
+</b:includable>
+         <b:includable id='backlinks' var='post'>
+  <a name='links'/><h4><data:post.backlinksLabel/></h4>
+  <b:if cond='data:post.numBacklinks != 0'>
+    <dl class='comments-block' id='comments-block'>
+      <b:loop values='data:post.backlinks' var='backlink'>
+        <div class='collapsed-backlink backlink-control'>
+          <dt class='comment-title'>
+            <span class='backlink-toggle-zippy'>&#160;</span>
+            <a expr:href='data:backlink.url' rel='nofollow'><data:backlink.title/></a>
+            <b:include data='backlink' name='backlinkDeleteIcon'/>
+          </dt>
+          <dd class='comment-body collapseable'>
+            <data:backlink.snippet/>
+          </dd>
+          <dd class='comment-footer collapseable'>
+            <span class='comment-author'><data:post.authorLabel/> <data:backlink.author/></span>
+            <span class='comment-timestamp'><data:post.timestampLabel/> <data:backlink.timestamp/></span>
+          </dd>
+        </div>
+      </b:loop>
+    </dl>
+  </b:if>
+  <p class='comment-footer'>
+    <a class='comment-link' expr:href='data:post.createLinkUrl' expr:id='data:widget.instanceId + &quot;_backlinks-create-link&quot;' target='_blank'><data:post.createLinkLabel/></a>
+  </p>
+</b:includable>
+         <b:includable id='comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <h4 id='comment-post-message'>
+        <a expr:id='data:widget.instanceId + &quot;_comment-editor-toggle-link&quot;' href='javascript:void(0)'><data:postCommentMsg/></a></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <h4 id='comment-post-message'><data:postCommentMsg/></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    </b:if>
+    <data:post.friendConnectJs/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;, &#39;<data:post.communityId/>&#39;);
+    </script>
+  </div>
+</b:includable>
+         <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <b:if cond='data:showCmtPopup'>
+      <div class='goog-toggle-button'>
+        <div class='goog-inline-block comment-action-icon'/>
+      </div>
+    <b:else/>
+      <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'>
+        <img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+         <b:includable id='comment_count_picker' var='post'>
+  <b:if cond='data:post.forceIframeComments'>
+    <span class='cmt_count_iframe_holder' expr:data-count='data:post.numComments' expr:data-onclick='data:post.addCommentOnclick' expr:data-url='data:post.canonicalUrl'>
+    </span>
+  <b:else/>
+    <b:if cond='data:post.commentSource == 1'>
+      <span class='cmt_count_iframe_holder' expr:data-count='data:post.numComments' expr:data-onclick='data:post.addCommentOnclick' expr:data-url='data:post.canonicalUrl'>
+      </span>
+    <b:else/>
+      <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'>
+        <data:post.commentLabelFull/>:
+      </a>
+    </b:if>
+  </b:if>
+</b:includable>
+         <b:includable id='comment_picker' var='post'>
+  <b:if cond='data:post.commentSource == 1'>
+    <b:include data='post' name='iframe_comments'/>
+  <b:else/>
+    <b:if cond='data:post.showThreadedComments'>
+      <b:include data='post' name='threaded_comments'/>
+    <b:else/>
+      <b:include data='post' name='comments'/>
+    </b:if>
+  </b:if>
+</b:includable>
+         <b:includable id='comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+      <h4>
+        <b:if cond='data:post.numComments == 1'>
+          1 <data:commentLabel/>:
+        <b:else/>
+          <data:post.numComments/> <data:commentLabelPlural/>:
+        </b:if>
+      </h4>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'><data:post.oldestLinkText/></a>
+          &#160;
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'><data:post.olderLinkText/></a>
+          &#160;
+          <data:post.commentRangeText/>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'><data:post.newerLinkText/></a>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'><data:post.newestLinkText/></a>
+        </span>
+      </b:if>
+
+      <div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+        <dl expr:class='data:post.avatarIndentClass' id='comments-block'>
+          <b:loop values='data:post.comments' var='comment'>
+            <dt expr:class='&quot;comment-author &quot; + data:comment.authorClass' expr:id='data:comment.anchorName'>
+              <b:if cond='data:comment.favicon'>
+                <img expr:src='data:comment.favicon' height='16px' style='margin-bottom:-2px;' width='16px'/>
+              </b:if>
+              <a expr:name='data:comment.anchorName'/>
+              <b:if cond='data:blog.enabledCommentProfileImages'>
+                <data:comment.authorAvatarImage/>
+              </b:if>
+              <b:if cond='data:comment.authorUrl'>
+                <a expr:href='data:comment.authorUrl' rel='nofollow'><data:comment.author/></a>
+              <b:else/>
+                <data:comment.author/>
+              </b:if>
+              <data:commentPostedByMsg/>
+            </dt>
+            <dd class='comment-body' expr:id='data:widget.instanceId + data:comment.cmtBodyIdPostfix'>
+              <b:if cond='data:comment.isDeleted'>
+                <span class='deleted-comment'><data:comment.body/></span>
+              <b:else/>
+                <p>
+                  <data:comment.body/>
+                </p>
+              </b:if>
+            </dd>
+            <dd class='comment-footer'>
+              <span class='comment-timestamp'>
+                <a expr:href='data:comment.url' title='comment permalink'>
+                  <data:comment.timestamp/>
+                </a>
+                <b:include data='comment' name='commentDeleteIcon'/>
+              </span>
+            </dd>
+          </b:loop>
+        </dl>
+      </div>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+            <data:post.oldestLinkText/>
+          </a>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+            <data:post.olderLinkText/>
+          </a>
+          &#160;
+          <data:post.commentRangeText/>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+            <data:post.newerLinkText/>
+          </a>
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+            <data:post.newestLinkText/>
+          </a>
+        </span>
+      </b:if>
+
+      <p class='comment-footer'>
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+            <b:include data='post' name='comment-form'/>
+          <b:else/>
+            <data:post.noNewCommentsText/>
+          </b:if>
+        <b:else/>
+          <b:if cond='data:post.allowComments'>
+            <a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><data:postCommentMsg/></a>
+          </b:if>
+        </b:if>
+
+      </p>
+    </b:if>
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+    <div id='backlinks-container'>
+    <div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+       <b:if cond='data:post.showBacklinks'>
+         <b:include data='post' name='backlinks'/>
+       </b:if>
+    </div>
+    </div>
+  </div>
+</b:includable>
+         <b:includable id='feedLinks'>
+  <b:if cond='data:blog.pageType != &quot;item&quot;'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+
+    <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.allowComments'>
+          <b:if cond='data:post.feedLinks'>
+            <b:include data='post.feedLinks' name='feedLinksBody'/>
+          </b:if>
+        </b:if>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+         <b:includable id='feedLinksBody' var='links'>
+  <div class='feed-links'>
+  <data:feedLinksMsg/>
+  <b:loop values='data:links' var='f'>
+     <a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+  </b:loop>
+  </div>
+</b:includable>
+         <b:includable id='iframe_comments' var='post'>
+
+  <b:if cond='data:post.allowComments'>
+    <script expr:src='data:post.commentSrc' type='text/javascript'/>
+    <div class='cmt_iframe_holder'/>
+
+    <b:if cond='data:post.embedCommentForm == &quot;false&quot;'>
+      <a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><data:postCommentMsg/></a>
+    </b:if>
+  </b:if>
+</b:includable>
+         <b:includable id='mobile-index-post' var='post'>
+  <div class='mobile-date-outer date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <div class='date-header'>
+        <span><data:post.dateHeader/></span>
+      </div>
+    </b:if>
+
+    <div class='mobile-post-outer'>
+      <a expr:href='data:post.url'>
+        <h3 class='mobile-index-title entry-title'>
+          <data:post.title/>
+        </h3>
+
+        <div class='mobile-index-arrow'>&amp;rsaquo;</div>
+
+        <div class='mobile-index-contents'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <div class='mobile-index-thumbnail'>
+              <div class='Image'>
+                <img expr:src='data:post.thumbnailUrl'/>
+              </div>
+            </div>
+          </b:if>
+
+          <div class='post-body'>
+            <b:if cond='data:post.snippet'><data:post.snippet/></b:if>
+          </div>
+        </div>
+
+        <div style='clear: both;'/>
+      </a>
+
+      <div class='mobile-index-comment'>
+        <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+          <b:if cond='data:post.allowComments'>
+            <b:if cond='data:post.numComments != 0'>
+              <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><b:if cond='data:post.numComments == 1'>1 <data:top.commentLabel/><b:else/><data:post.numComments/> <data:top.commentLabelPlural/></b:if></a>
+            </b:if>
+          </b:if>
+        </b:if>
+      </div>
+    </div>
+  </div>
+</b:includable>
+         <b:includable id='mobile-main' var='top'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <b:if cond='data:blog.pageType == &quot;index&quot;'>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-index-post'/>
+        </b:loop>
+      <b:else/>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-post'/>
+        </b:loop>
+      </b:if>
+    </div>
+
+   <b:include name='mobile-nextprev'/>
+</b:includable>
+         <b:includable id='mobile-nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'>&amp;lsaquo;</a>
+      </div>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'>&amp;rsaquo;</a>
+      </div>
+    </b:if>
+
+    <div class='mobile-link-button' id='blog-pager-home-link'>
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+    </div>
+
+    <div class='mobile-desktop-link'>
+      <a class='home-link' expr:href='data:desktopLinkUrl'><data:desktopLinkMsg/></a>
+    </div>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+         <b:includable id='mobile-post' var='post'>
+  <div class='date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+    </b:if>
+    <div class='date-posts'>
+      <div class='post-outer'>
+
+        <div class='post hentry uncustomized-post-template'>
+          <a expr:name='data:post.id'/>
+          
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+<b:if cond='data:post.title'>
+<h2 class='post-title entry-title'>
+<b:if cond='data:post.link'>
+<a expr:href='data:post.link'><data:post.title/></a>
+<b:else/>
+<b:if cond='data:post.url'>
+<a expr:href='data:post.url'><data:post.title/></a>
+<b:else/>
+<data:post.title/>
+</b:if>
+</b:if>
+</h2>
+</b:if>
+</b:if>
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<b:if cond='data:post.title'>
+<h1 class='post-title entry-title' itemprop='name'>
+<b:if cond='data:post.link'>
+<a expr:href='data:post.link'><data:post.title/></a>
+<b:else/>
+<b:if cond='data:post.url'>
+<b:if cond='data:blog.url != data:post.url'>
+<a expr:href='data:post.url'><data:post.title/></a>
+<b:else/>
+<data:post.title/>
+</b:if>
+<b:else/>
+<data:post.title/>
+</b:if>
+</b:if>
+</h1>
+</b:if>
+</b:if>
+
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<!-- Show Ads Below Post Title -->
+
+</b:if>
+
+          <div class='post-header'>
+            <div class='post-header-line-1'/>
+          </div>
+
+          <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id'>
+            <data:post.body/>
+            <div style='clear: both;'/> <!-- clear for photos floats -->
+          </div>
+
+          <div class='post-footer'>
+            <div class='post-footer-line post-footer-line-1'>
+              <span class='post-author vcard'>
+                <b:if cond='data:top.showAuthor'>
+                  <b:if cond='data:post.authorProfileUrl'>
+                    <span class='fn'>
+                      <a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
+                        <data:post.author/>
+                      </a>
+                    </span>
+                  <b:else/>
+                    <span class='fn'><data:post.author/></span>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-timestamp'>
+                <b:if cond='data:top.showTimestamp'>
+                  <data:top.timestampLabel/>
+                  <b:if cond='data:post.url'>
+                    <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'><abbr class='published' expr:title='data:post.timestampISO8601'><data:post.timestamp/></abbr></a>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-comment-link'>
+                <b:if cond='data:blog.pageType != &quot;item&quot;'>
+                  <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+                    <b:if cond='data:post.allowComments'>
+                      <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><b:if cond='data:post.numComments == 1'>1 <data:top.commentLabel/><b:else/><data:post.numComments/> <data:top.commentLabelPlural/></b:if></a>
+                    </b:if>
+                  </b:if>
+                </b:if>
+              </span>
+            </div>
+
+            <div class='post-footer-line post-footer-line-2'>
+              <b:if cond='data:top.showMobileShare'>
+                <div class='mobile-link-button goog-inline-block' id='mobile-share-button'>
+                  <a href='javascript:void(0);'><data:shareMsg/></a>
+                </div>
+              </b:if>
+              <b:if cond='data:top.showDummy'>
+                <div class='goog-inline-block dummy-container'><data:post.dummyTag/></div>
+              </b:if>
+            </div>
+
+
+
+
+
+
+          </div>
+        </div>
+
+        <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
+          <b:if cond='data:post.showThreadedComments'>
+            <b:include data='post' name='threaded_comments'/>
+          <b:else/>
+            <b:include data='post' name='comments'/>
+          </b:if>
+        </b:if>
+        <b:if cond='data:blog.pageType == &quot;item&quot;'>
+          <b:if cond='data:post.showThreadedComments'>
+            <b:include data='post' name='threaded_comments'/>
+          <b:else/>
+            <b:include data='post' name='comments'/>
+          </b:if>
+        </b:if>
+      </div>
+    </div>
+  </div>
+</b:includable>
+         <b:includable id='nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <span id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'><data:newerPageTitle/></a>
+      </span>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <span id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'><data:olderPageTitle/></a>
+      </span>
+    </b:if>
+
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+
+    <b:if cond='data:mobileLinkUrl'>
+      <div class='blog-mobile-link'>
+        <a expr:href='data:mobileLinkUrl'><data:mobileLinkMsg/></a>
+      </div>
+    </b:if>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+         <b:includable id='post' var='post'>
+<div class='wrapfullpost'>
+  <div class='post hentry'>
+    <a expr:name='data:post.id'/>
+
+   <b:if cond='data:blog.pageType != &quot;item&quot;'>
+<b:if cond='data:post.title'>
+<h2 class='post-title entry-title'>
+<b:if cond='data:post.link'>
+<a expr:href='data:post.link'><data:post.title/></a>
+<b:else/>
+<b:if cond='data:post.url'>
+<a expr:href='data:post.url'><data:post.title/></a>
+<b:else/>
+<data:post.title/>
+</b:if>
+</b:if>
+</h2>
+</b:if>
+</b:if>
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<b:if cond='data:post.title'>
+<h1 class='title-cat title-sdata' itemprop='name'>
+<b:if cond='data:post.link'>
+<a expr:href='data:post.link'><data:post.title/></a>
+<b:else/>
+<b:if cond='data:post.url'>
+<b:if cond='data:blog.url != data:post.url'>
+<a expr:href='data:post.url'><data:post.title/></a>
+<b:else/>
+<data:post.title/>
+</b:if>
+<b:else/>
+<data:post.title/>
+</b:if>
+</b:if>
+</h1>
+</b:if>
+</b:if>
+
+    <div class='post-header-line-1'/>
+	
+<b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+<div class='postmeta-primary'>
+<span class='meta_date'><data:post.timestamp/></span>
+ &amp;nbsp;<span class='meta_categories'><b:if cond='data:post.labels'><b:loop values='data:post.labels' var='label'><a expr:href='data:label.url' rel='tag'><data:label.name/></a><b:if cond='data:label.isLast != &quot;true&quot;'>, </b:if></b:loop></b:if></span>
+ &amp;nbsp;<span class='meta_comments'><b:if cond='data:post.allowComments'><a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><b:if cond='data:post.numComments == 0'>No comments</b:if><b:if cond='data:post.numComments == 1'>1 comment</b:if><b:if cond='data:post.numComments &gt;= 2'><data:post.numComments/> comments</b:if></a></b:if></span> 
+</div>
+</b:if>
+
+    <div class='post-body entry-content'>
+
+<p>
+<b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+<div expr:id='&quot;summary&quot; + data:post.id'><data:post.body/></div>
+<script type='text/javascript'>createSummaryAndThumb(&quot;summary<data:post.id/>&quot;);</script>
+</b:if>
+</b:if>
+<b:if cond='data:blog.pageType == &quot;item&quot;'><data:post.body/></b:if>
+
+<b:if cond='data:blog.pageType == &quot;static_page&quot;'><data:post.body/></b:if></p>
+
+<b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+<div class='readmore'>
+<a expr:href='data:post.url'>Read More</a>
+</div>
+</b:if>
+</b:if>
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<div style='clear:both;'/>
+
+<span class='reaction-buttons'>
+<b:if cond='data:top.showReactions'>
+<table border='0' cellpadding='0' width='100%'><tr>
+<td style='font-size:12px;padding-top:2px;' valign='top'><span class='reactions-label'><data:top.reactionsLabel/></span></td>
+<td><iframe allowtransparency='true' class='reactions-iframe' expr:src='data:post.reactionsUrl' frameborder='0' name='reactions' scrolling='no'/></td>
+</tr></table>
+</b:if>
+</span>
+</b:if>
+
+      <div style='clear: both;'/> <!-- clear for photos floats -->
+    </div>
+  
+  
+    
+    <div class='post-footer'>
+<style>
+#related-posts{    width: 100%;float:left}
+#related-posts ul{margin:0;padding:0;list-style-type:none}
+#related-posts ul li{padding:10px 0}
+#related-posts ul li:hover img{width:42px;height:42px;padding:0}
+#related-posts img{float:left;border:1px solid #BBB;margin-right:10px;width:36px;height:36px;background:#FFF;padding:3px}
+#related-posts h3{margin:0;font-size:16px}
+</style>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<div style='clear:both'/>
+<div id='related-posts'>
+<script type='text/javascript'>var ry=&#39;<h2>Bài viết liên quan</h2>&#39;;rn=&#39;<h2>Không có Bài viết liên quan</h2>&#39;;rcomment=&#39;Nhận xét&#39;;rdisable=&#39;Tắt Nhận xét&#39;;commentYN=&#39;yes&#39;;</script>
+<script type='text/javascript'>
+//<![CDATA[
+var dw='';titles=new Array();titlesNum=0;urls=new Array();timeR=new Array();thumb=new Array();commentsNum=new Array();comments=new Array();function related_results_labels(c){for(var b=0;b<c.feed.entry.length;b++){var d=c.feed.entry[b];titles[titlesNum]=d.title.$t;for(var a=0;a<d.link.length;a++){if('thr$total' in d){commentsNum[titlesNum]=d.thr$total.$t+' '+rcomment}else{commentsNum[titlesNum]=rdisable};if(d.link[a].rel=="alternate"){urls[titlesNum]=d.link[a].href;timeR[titlesNum]=d.published.$t;if('media$thumbnail' in d){thumb[titlesNum]=d.media$thumbnail.url}else{thumb[titlesNum]='http://lh3.ggpht.com/--Z8SVBQZ4X8/TdDxPVMl_sI/AAAAAAAAAAA/jhAgjCpZtRQ/no-image.png'};titlesNum++;break}}}}function removeRelatedDuplicates(){var b=new Array(0);c=new Array(0);e=new Array(0);f=new Array(0);g=new Array(0);for(var a=0;a<urls.length;a++){if(!contains(b,urls[a])){b.length+=1;b[b.length-1]=urls[a];c.length+=1;c[c.length-1]=titles[a];e.length+=1;e[e.length-1]=timeR[a];f.length+=1;f[f.length-1]=thumb[a];g.length+=1;g[g.length-1]=commentsNum[a]}}urls=b;titles=c;timeR=e;thumb=f;commentsNum=g}function contains(b,d){for(var c=0;c<b.length;c++){if(b[c]==d){return true}}return false}function printRelatedLabels(a){var y=a.indexOf('?m=0');if(y!=-1){a=a.replace(/\?m=0/g,'')}for(var b=0;b<urls.length;b++){if(urls[b]==a){urls.splice(b,1);titles.splice(b,1);timeR.splice(b,1);thumb.splice(b,1);commentsNum.splice(b,1)}}var c=Math.floor((titles.length-1)*Math.random());var b=0;if(titles.length==0){dw+=rn}else{dw+=ry;dw+='<ul>';while(b<titles.length&&b<20&&b<maxresults){if(y!=-1){urls[c]=urls[c]+'?m=0'}if(commentYN=='yes'){comments[c]=' - '+commentsNum[c]}else{comments[c]=''};dw+='<li><img alt="'+titles[c]+'" src="'+thumb[c]+'"/><div><h3><a href="'+urls[c]+'" rel="nofollow">'+titles[c]+'</a></h3><span>'+timeR[c].substring(8,10)+'/'+timeR[c].substring(5,7)+'/'+timeR[c].substring(0,4)+comments[c]+'</span></div></li><div style="clear:both"></div>';if(c<titles.length-1){c++}else{c=0}b++}dw+='</ul>'};urls.splice(0,urls.length);titles.splice(0,titles.length);document.getElementById('related-posts').innerHTML=dw};
+//]]>
+</script>
+<b:loop values='data:post.labels' var='label'>
+<script expr:src='&quot;/feeds/posts/default/-/&quot; + data:label.name + &quot;?alt=json-in-script&amp;callback=related_results_labels&quot;' type='text/javascript'/>
+</b:loop>
+<script type='text/javascript'>var maxresults=6;removeRelatedDuplicates();printRelatedLabels(&#39;<data:post.url/>&#39;);</script>
+</div>
+<div style='clear:both'/>
+</b:if>
+<div class='post-footer-line post-footer-line-1'/>
+<div class='post-footer-line post-footer-line-2'/>
+<div class='post-footer-line post-footer-line-3'/></div>
+</div>
+</div>
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<!-- navigation -->
+<b:include name='nextprev'/>
+</b:if>
+
+</b:includable>
+         <b:includable id='postQuickEdit' var='post'>
+  <b:if cond='data:post.editUrl'>
+    <span expr:class='&quot;item-control &quot; + data:post.adminClass'>
+      <a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'>
+        <img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+      </a>
+    </span>
+  </b:if>
+</b:includable>
+         <b:includable id='shareButtons' var='post'>
+  <b:if cond='data:top.showEmailButton'><a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &quot;&amp;target=email&quot;' expr:title='data:top.emailThisMsg' target='_blank'><span class='share-button-link-text'><data:top.emailThisMsg/></span></a></b:if><b:if cond='data:top.showBlogThisButton'><a class='goog-inline-block share-button sb-blog' expr:href='data:post.sharePostUrl + &quot;&amp;target=blog&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=270,width=475\&quot;); return false;&quot;' expr:title='data:top.blogThisMsg' target='_blank'><span class='share-button-link-text'><data:top.blogThisMsg/></span></a></b:if><b:if cond='data:top.showTwitterButton'><a class='goog-inline-block share-button sb-twitter' expr:href='data:post.sharePostUrl + &quot;&amp;target=twitter&quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToTwitterMsg/></span></a></b:if><b:if cond='data:top.showFacebookButton'><a class='goog-inline-block share-button sb-facebook' expr:href='data:post.sharePostUrl + &quot;&amp;target=facebook&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=430,width=640\&quot;); return false;&quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToFacebookMsg/></span></a></b:if><b:if cond='data:top.showOrkutButton'><a class='goog-inline-block share-button sb-orkut' expr:href='data:post.sharePostUrl + &quot;&amp;target=orkut&quot;' expr:title='data:top.shareToOrkutMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToOrkutMsg/></span></a></b:if><b:if cond='data:top.showDummy'><div class='goog-inline-block dummy-container'><data:post.dummyTag/></div></b:if>
+</b:includable>
+         <b:includable id='status-message'>
+
+</b:includable>
+         <b:includable id='threaded-comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    </b:if>
+    <data:post.friendConnectJs/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;, &#39;<data:post.communityId/>&#39;);
+    </script>
+  </div>
+</b:includable>
+         <b:includable id='threaded_comment_js' var='post'>
+  <script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
+
+  <script type='text/javascript'>
+    (function() {
+      var items = <data:post.commentJso/>;
+      var msgs = <data:post.commentMsgs/>;
+      var config = <data:post.commentConfig/>;
+
+// <![CDATA[
+      var cursor = null;
+      if (items && items.length > 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        if (entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '<span class="deleted-comment">' + entry.content.$t + '</span>';
+            }
+          }
+        }
+        return entry.content.$t;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data && data.feed && data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author && entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid && pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&v=2&orderby=published&reverse=false&max-results=50';
+          if (cursor) {
+            url += '&published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length < 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              && comment.author.name == config.authorName
+              && comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/delete-comment.g?blogID='
+               + config.blogId + '&postID=' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox && (commentId !== replyParent)) {
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog && window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog && window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]>
+  </script>
+
+</b:includable>
+         <b:includable id='threaded_comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <h4><data:post.commentLabelFull/>:</h4>
+
+    <div class='comments-content'>
+      <b:if cond='data:post.embedCommentForm'>
+        <b:include data='post' name='threaded_comment_js'/>
+      </b:if>
+      <div id='comment-holder'>
+         <data:post.commentHtml/>
+      </div>
+    </div>
+
+    <p class='comment-footer'>
+      <b:if cond='data:post.allowNewComments'>
+        <b:include data='post' name='threaded-comment-form'/>
+      <b:else/>
+        <data:post.noNewCommentsText/>
+      </b:if>
+    </p>
+
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+    <div id='backlinks-container'>
+    <div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+       <b:if cond='data:post.showBacklinks'>
+         <b:include data='post' name='backlinks'/>
+       </b:if>
+    </div>
+    </div>
+  </div>
+</b:includable>
+       </b:widget>
+     </b:section>
+   </div>
+
+
+<aside id='sidebar'>
+<div class='widget'>
+<div class='details-widget'>
+<a href='/p/lien-he.html'><img alt='Mở bán chung cư GoldSeason' border='0' src='https://lh4.googleusercontent.com/-jUVAtduuXQs/Vu_bQYNQANI/AAAAAAAADIA/xv3NkD2Pe1kaRJJOKaKDoQAPtOHLD1rQA/s1600/banner-300x500.jpg' title='Mở bán chung cư GoldSeason'/></a>
+<a href='tel:0904672993'><img alt='Tư vấn dự án GoldSeason' border='0' src='https://lh4.googleusercontent.com/-d9brEl29pNk/VuLZ-rktwtI/AAAAAAAAC1Q/_x3jx5FcKc8rSbpeaseBefmCBcHXLmqSg/s1600/hotline-1.png' title='Tư vấn dự án GoldSeason'/></a>
+</div>
+</div>
+<div class='widget'>
+<h3 class='title-widget'>Danh mục</h3>
+<div class='details-widget'>
+<ul>
+<li><a href='/2015/11/tong-quan-chung-cu-goldseason-nguyen-tuan.html'>Tổng quan</a></li>
+<li><a href='/2015/11/vi-tri-chung-cu-goldseason.html'>Vị trí</a></li>
+<li><a href='/2015/11/tien-ich-chung-cu-goldseason-nguyen-tuan.html'>Tiện ích</a></li>
+<li><a href='/2015/11/mat-bang-dien-hinh-chung-cu-goldseason.html'>Mặt bằng</a></li>
+<li><a href='/2015/11/gia-ban-va-chinh-sach-goldseason.html'>Giá bán</a></li>
+<li><a href='/search/label/Tiến%20độ'>Tiến độ</a></li>
+<li><a href='/2015/12/noi-that-chung-cu-goldseason-nguyen-tuan.html'>Nội thất</a></li>
+<li><a href='/search/label/Mở%20bán'>Sự kiện mở bán</a></li>
+<li><a href='/search/label/Tin%20tức'>Tin tức</a></li>
+<li><a href='/p/lien-he.html'>Liên hệ</a></li>
+</ul>
+</div>
+</div>
+</aside>
+  </div>
+
+  </b:if>
+
+</div>
+
+
+
+<div id='footer'>
+<div class='top-footer'>
+<div class='wrap-tfooter'>
+<div class='show-wfooter'>
+<div class='widget-footer'>
+<div class='LinkList1 section' id='LinkList1'><div class='widget HTML' data-version='1' id='HTML1'>
+<h2 class='title'>TIN TỨC NỖI BẬT</h2>
+<div class='widget-content'>
+<div class='separator' style='clear: both; text-align: justify;'>
+<img alt='icon GoldSeason' border='0' src='https://lh4.googleusercontent.com/-Qe2X-6TODKM/VvV5soov4WI/AAAAAAAADPY/a3MOOi-qfU4dVM-Z97N91NOFbZkdGHlSA/s1600/icon-goldseasson1.png' title='icon GoldSeason'/><a href='/2016/03/chung-cu-goldseason-them-nong-khi-mo-rong-duong-nguyen-tuan.html' target='_blank'><b>Quy hoạch mở rộng đường Nguyễn Tuân - GoldSeason</b></a></div>
+<div class='separator' style='clear: both; text-align: justify;'>
+<img alt='icon GoldSeason' border='0' src='https://lh4.googleusercontent.com/-Qe2X-6TODKM/VvV5soov4WI/AAAAAAAADPY/a3MOOi-qfU4dVM-Z97N91NOFbZkdGHlSA/s1600/icon-goldseasson1.png' title='icon GoldSeason'/><b><a href='/2016/03/sap-ra-mat-toa-summer-2-chung-cu-goldseason.html' target='_blank'>[ĐĂNG KÝ] Nhận đặt chỗ căn hộ Tòa Summer 2 - GoldSeason</a></b></div>
+<div class='separator' style='clear: both; text-align: justify;'>
+<img alt='icon GoldSeason' border='0' data-pin-nopin='true' src='https://lh4.googleusercontent.com/-Qe2X-6TODKM/VvV5soov4WI/AAAAAAAADPY/a3MOOi-qfU4dVM-Z97N91NOFbZkdGHlSA/s1600/icon-goldseasson1.png' title='icon GoldSeason'/><b><a href='#' target='_blank'>STDA là đơn vị độc quyền phân phối dự án GoldSeason</a></b></div>
+<div class='separator' style='clear: both; text-align: justify;'>
+<img alt='icon GoldSeason' border='0' data-pin-nopin='true' src='https://lh4.googleusercontent.com/-Qe2X-6TODKM/VvV5soov4WI/AAAAAAAADPY/a3MOOi-qfU4dVM-Z97N91NOFbZkdGHlSA/s1600/icon-goldseasson1.png' title='icon GoldSeason'/><b><a href='#' target='_blank'>Cơ hội đầu tư sinh lời cao tại GoldSeason</a></b></div>
+<div class='separator' style='clear: both; text-align: justify;'>
+<img alt='icon GoldSeason' border='0' src='https://lh4.googleusercontent.com/-Qe2X-6TODKM/VvV5soov4WI/AAAAAAAADPY/a3MOOi-qfU4dVM-Z97N91NOFbZkdGHlSA/s1600/icon-goldseasson1.png' title='icon GoldSeason'/><b><a href='#' target='_blank'>[CHÍNH SÁCH] GoldSeason Tặng 2 cây VÀNG, Chiết khấu 8,5%</a></b></div>
+<div class='separator' style='clear: both; text-align: justify;'>
+  <br/></div>
+</div>
+</div></div>
+</div>
+<div class='widget-footer'>
+<div class='LinkList2 section' id='LinkList2'><div class='widget HTML' data-version='1' id='HTML2'>
+<h2 class='title'>NHẬN THÔNG TIN DỰ ÁN</h2>
+<div class='widget-content'>
+<div style='text-align: justify;'>
+<b>Đừng bỏ lỡ những tin tức mới nhất về dự án mà bạn đang quan tâm</b></div>
+<div style='text-align: justify;'>
+  <br/></div>
+<div class='separator' style='clear: both; text-align: justify;'>
+<img alt='Ảnh GoldSeason' border='0' src='https://lh4.googleusercontent.com/-FXzdm1pmCdo/VuQsVpFm0rI/AAAAAAAAC2o/ipc6eE88ZQYnh2oa-PAvwsnybtFRwT_pA/s1600/lol1.png' title='Ảnh GoldSeason'/>Cập nhật chính sách và tiến độ</div>
+<div class='separator' style='clear: both; text-align: justify;'>
+  <br/></div>
+<div class='separator' style='clear: both; text-align: justify;'>
+<img alt='Ảnh GoldSeason' border='0' src='https://lh4.googleusercontent.com/-FXzdm1pmCdo/VuQsVpFm0rI/AAAAAAAAC2o/ipc6eE88ZQYnh2oa-PAvwsnybtFRwT_pA/s1600/lol1.png' title='Ảnh GoldSeason'/>Bản vẽ mặt bằng căn hộ</div>
+<div class='separator' style='clear: both; text-align: justify;'>
+  <br/></div>
+<div style='text-align: justify;'>
+<img alt='Ảnh GoldSeason' border='0' src='https://lh4.googleusercontent.com/-FXzdm1pmCdo/VuQsVpFm0rI/AAAAAAAAC2o/ipc6eE88ZQYnh2oa-PAvwsnybtFRwT_pA/s1600/lol1.png' title='Ảnh GoldSeason'/>Hợp đồng mẫu của Chủ đầu tư<br/>
+  <br/>
+<img alt='Ảnh GoldSeason' border='0' data-pin-nopin='true' src='https://lh4.googleusercontent.com/-FXzdm1pmCdo/VuQsVpFm0rI/AAAAAAAAC2o/ipc6eE88ZQYnh2oa-PAvwsnybtFRwT_pA/s1600/lol1.png' title='Ảnh GoldSeason'/>Tài liệu hữu ích khác<br/>
+  <br/>
+<div class='separator' style='clear: both; text-align: center;'>
+<a href='#' target='_blank'><img alt='Đăng ký nhận thông tin dự án GoldSeason' border='0' src='https://lh4.googleusercontent.com/-TiWxLolNl-4/VuQpJoffbbI/AAAAAAAAC2U/RORDlt3VLaYvTkyRekC71LXscIIIoVt4w/s1600/dang-ky.png' title='Đăng ký nhận thông tin dự án GoldSeason'/></a></div>
+  <br/></div>
+</div>
+</div></div>
+</div>
+<div class='widget-footer'>
+<div class='LinkList3 section' id='LinkList3'><div class='widget HTML' data-version='1' id='HTML3'>
+<h2 class='title'>BAN QUẢN LÝ DỰ ÁN</h2>
+<div class='widget-content'>
+<div style='text-align: justify;'>
+Chủ đầu tư TNR Holdings Việt Nam đưa ra thị trường dự án <b>chung cư GoldSeason</b>, đây chính là món quà mà chủ đầu tư dành tặng cho khách hàng thông qua việc tạo dựng một khu đô thị kiểu Mỹ <b>GoldSeason - New Manhhattan trong lòng Hà Nội</b><br/>
+  <br/>
+  <b>Địa chỉ:</b> 47 Nguyễn Tuân-Thanh Xuân-Hà Nội<br/>
+  <b>E-mail:</b> quanlyduan136@gmail.com<br/>
+<b>Website:</b> www.goldseason-tnr.net</div>
+<div style='text-align: justify;'>
+  <br/></div>
+<div style='text-align: justify;'>
+  Liên hệ trực tiếp <b>Chủ đầu tư GoldSeason</b><br/>
+( <i>Click vào số điện thoại để gọi ngay</i> )</div>
+<div class='separator' style='clear: both; text-align: left;'>
+<a href='tel:0904672993'><img alt='' border='0' src='https://lh4.googleusercontent.com/-hvrM0bMoPxU/VuLOgPHaKCI/AAAAAAAAC08/hDLzY04lqeYnPtnvYbW9LfRZKc58bY_GA/s1600/hotline-goldseason.png' title='Hotline chung cư GoldSeason'/></a></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class='bottom-footer'>
+<div class='wrap-bfooter'>
+<p>&#169; Copyright 2016 Công ty Cổ phần Đầu tư và Phát triển Bất động sản TNR Holdings Việt Nam </p>
+</div>
+</div>
+</div>
+ </body>
+</html>
